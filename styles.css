@@ -1,0 +1,9 @@
+    /* style.css */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f3f4f4;
+}
+
+.font-heading {
+  font-family: 'Playfair Display', serif;
+}
